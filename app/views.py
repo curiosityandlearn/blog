@@ -26,12 +26,12 @@ def index():
     user = g.user
     posts = [
          {
-             'author':{'nickname':'Batur'},
-             'body':'Learning Flask'
+             'author':{'nickname':'Ye Shunming'},
+             'body':'Hello, everyone!I am using Flask to build a microblog web application'
          },
          {
-             'author':{'nickname':'Susan'},
-             'body':'The Avengers movie was so cool!'
+             'author':{'nickname':'Ye Shunming'},
+             'body':'The project is under buliding, there are sitll lots of features to be added, if you have any suggestions, feel free to contact me. My email:shunmingye@163.com'
          }
          ]
 
